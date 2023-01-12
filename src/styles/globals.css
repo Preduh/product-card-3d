@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Crimson Pro";
+  src: url("../../public/fonts/CrimsonPro/CrimsonPro-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../../public/fonts/Lato/Lato-Light.ttf");
+  src: url("../../public/fonts/Lato/Lato-Regular.ttf");
+}
